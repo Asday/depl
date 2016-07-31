@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import install
+
+print("setting global variables")
+DB_NAME = ""
+DB_USER = ""
+DB_PASSWORD = ""
+
+install.install()
